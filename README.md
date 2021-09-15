@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @karnamalaviya
-- 👀 I’m interested in health and education research - currently thinking about the Opioid crisis, ACEs 
+- 👀 I’m interested in health and education research - currently thinking about the Opioid Crisis, ACEs 
 - 🌱 I’m currently an Economics PhD Student at UC San Diego 
 - 📫 How to reach me - kmalaviya@ucsd.edu
 
