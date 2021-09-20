@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @karnamalaviya
-- 👀 I’m interested in health and education research - currently thinking about the Opioid Crisis, ACEs 
 - 🌱 I’m currently an Economics PhD Student at UC San Diego 
+- 👀 I’m interested in health and education research - currently thinking about the Opioid Crisis, ACEs 
+- 🚗 Formula 1 has taught me everything I know about Web Scraping and R Shiny
 - 📫 How to reach me - kmalaviya@ucsd.edu
 
 <!---
